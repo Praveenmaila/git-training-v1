@@ -31,6 +31,5 @@ print ("Added this line of code from Demon Salvoture from git terminal")
 #---------------------------------------------------------------------
 print ("Added this line of code from Demon Salvoture from git terminal")
 print ("added this line from github for the first time")
-#---------------------------------------------------------------------
 print ("Added this line of code from techdev branch from git terminal")
 h = 200
